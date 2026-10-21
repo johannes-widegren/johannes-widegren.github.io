@@ -20,7 +20,7 @@ Jovisst! Men för att få en träff måste du söka på exakt de ord som står i
 
 Helt sant! Om vi tittar på hur många _sidor_ Samefolket gett ut per år ser kurvan ut så här:
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/29867199"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29867199/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/30643519"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30643519/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 Grafen nedan visar procent istället – hur många procent artiklar som taggats med t.ex. "Renen" av alla artiklar det året.
 
