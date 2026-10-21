@@ -28,5 +28,6 @@ Grafen nedan visar procent istället – hur många procent artiklar som taggats
 
 "Härligt! Men artiklarna efter 1973 då?"
 
-Där satte du fingret på spiken! 
+Där satte du fingret på spiken! I projektet _Svensk Samisk Bibliografi_ under åren 2000-2003 indexerades fler av Samefolkets artiklar av samiska bibliotekarier. Men det finns fortfarande stora luckor, se grafen nedan.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/30318313"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30318313/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
