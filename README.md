@@ -6,9 +6,9 @@ Jag heter Johannes Widegren. 🧔🏼‍♀️
 
 Jag är doktorand i biblioteks- och informationsvetenskap vid Linneuniversitetet i Växjö. 🎓
 
-Mitt avhandlingsprojekt är ett samarbete med tidningen [Samefolket]([url](https://samefolket.se/)) där vi tillsammans undersöker möjligheter att göra deras arkiv mer sökbart med hjälp av AI. 🤖
+Mitt avhandlingsprojekt är ett samarbete med tidningen [Samefolket](https://samefolket.se/) där vi tillsammans undersöker möjligheter att göra deras arkiv mer sökbart med hjälp av AI. 🤖
 
-"Men arkivet digitaliserades ju 2025 – det går ju redan att söka i på [samefolket.se]([url](https://digital.samefolket.se/))?" 🤷
+"Men arkivet digitaliserades ju 2025 – det går ju redan att söka i på [samefolket.se](https://digital.samefolket.se/)?" 🤷
 
 Jovisst! Men för att få en träff måste du söka på exakt de ord som står i tidningen – söker du på "ren" 🦌 får du inga träffar på "sarv" eller "vaja", men däremot kanske på "ren" som i "inte smutsig". 🧼
 
