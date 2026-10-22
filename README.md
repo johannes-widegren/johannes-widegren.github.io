@@ -18,7 +18,7 @@ Jovisst! Men för att få en träff måste du söka på exakt de ord som står i
 
 "Okej, intressant! Men, det gavs ju ut många fler nummer på 1960-talet än på 1920-talet, så alla kurvor går ju upp i slutet – hur ska jag veta vilka år ämnet varit störst?" 🤔
 
-Helt sant! Om vi i stället tittar på hur många _sidor_ Samefolket gett ut per år ser kurvan ut så här, med många fler nummer och artiklar från 1960 och framåt:
+Helt sant! Om vi tittar på hur många _sidor_ Samefolket gett ut per år ser kurvan ut så här, med många fler nummer och artiklar från 1960 och framåt:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/30643519"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30643519/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
