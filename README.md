@@ -28,12 +28,12 @@ För att kompensera för ökningen i artiklar per år visar grafen nedan _andela
 
 "Härligt! Då ser man ju hur ämnen kommer och går över tid. Men artiklarna efter 1973 då?" 😳
 
-Där satte du fingret på spiken! I projektet _Svensk Samisk Bibliografi_ under åren 2000-2003 indexerades fler av Samefolkets artiklar av samiska bibliotekarier. Men det finns fortfarande stora luckor med årgångar som inte blivit indexerade, se grafen nedan.
+Där satte du fingret på spiken! 🔨 I projektet _Svensk Samisk Bibliografi_ under åren 2000-2003 indexerades fler av Samefolkets artiklar av samiska bibliotekarier. Men det finns fortfarande stora luckor med årgångar som inte blivit indexerade, se grafen nedan.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/30318313"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30318313/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 Det är här AI kommer in. Eller _automatiserad ämnesordsindexering_ närmare bestämt. Om vi kan träna en AI-modell på ämnesorden från _Svensk Samisk Bibliografi_-projektet skulle den kunna hjälpa samiska bibliotekarier att indexera resten av arkivet snabbare och till lägre kostnad. 
 
-Men kommer det att fungera? Det är det vi ska ta reda på.
+Men kommer det att fungera ❓ Det är det vi ska ta reda på.
 
-Tack för att du besökt min sajt! Ollu giitu!
+Tack för att du besökt min sajt! Ollu giitu! 😁
