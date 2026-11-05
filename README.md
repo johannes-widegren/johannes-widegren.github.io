@@ -37,3 +37,9 @@ Det är här AI kommer in. Eller _automatiserad ämnesordsindexering_ närmare b
 Men kommer det att fungera ❓ Det är det vi ska ta reda på.
 
 Tack för att du besökt min sajt! Ollu giitu! 😁
+
+Bonus:
+
+Så här är artiklarna som indexerats i Libris fördelade efter huvudsakligt språk i artikeln!
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/30814303"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30814303/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
