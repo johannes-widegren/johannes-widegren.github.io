@@ -39,12 +39,13 @@ Men kommer det att fungera ❓ Det är det vi ska ta reda på.
 Tack för att du besökt min sajt! Ollu giitu! 😁
 
 
-Bonus:
-
+## Bonus:
+### Språk i Samefolket
 Så här är artiklarna som indexerats i Libris fördelade efter huvudsakligt språk i artikeln!
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/30814303"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30814303/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
+### Samefolket in translation
 
 The following is a translation of the first article of the trial issue published by _Samefolket_ in November 1918. Translation draft by Gemma3:12b, corrected by me.
 
