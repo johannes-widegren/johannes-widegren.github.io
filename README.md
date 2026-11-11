@@ -64,4 +64,4 @@ The following is a translation of the first article of the trial issue published
 
 > _The Editorial Staff."_
 
-![First page of Samefolket trial issue](/bib0k0lbw0jxnvchrc2_19181115_178641_1_0001_2431x3150.jpg) "First page of Samefolket trial issue")
+![First page of Samefolket trial issue](/bib0k0lbw0jxnvchrc2_19181115_178641_1_0001_2431x3150.jpg "First page of Samefolket trial issue")
