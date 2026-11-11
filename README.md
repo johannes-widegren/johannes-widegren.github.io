@@ -1,5 +1,7 @@
 # Utforska Samefolkets arkiv
 
+![Samefolkets arkiv logo](/SamefolketARKIV_logo.WarmGray8.png "Samefolkets arkiv logo")
+
 Bures! Hej! 👋
 
 Mu namma lea Johannes Widegren. Jag heter Johannes Widegren. 🧔🏼‍♀️
