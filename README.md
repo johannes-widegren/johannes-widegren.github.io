@@ -1,6 +1,6 @@
 # Utforska Samefolkets arkiv
 
-![Samefolkets arkiv logo](/SamefolketARKIV_logo.WarmGray8.png "Samefolkets arkiv logo")
+<img src="SamefolketARKIV_logo.WarmGray8.png" width="10%" alt="Samefolkets arkiv logo">
 
 Bures! Hej! 👋
 
