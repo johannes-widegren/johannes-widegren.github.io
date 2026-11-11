@@ -63,3 +63,5 @@ The following is a translation of the first article of the trial issue published
 > _Uppsala, Järnbrogat. 34 in November 1918._
 
 > _The Editorial Staff."_
+
+![First page of Samefolket trial issue]([https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fassets.digitalocean.com%2Farticles%2Falligator%2Fboo.svg&token=3b393c4e6c647039515f968de472a17b4ff48f2082204b56512e8c13d1cd5e04](https://github.com/johannes-widegren/johannes-widegren.github.io/blob/3dfbf7d51fbf7b3eac1ae187448a190a6bd371b7/bib0k0lbw0jxnvchrc2_19181115_178641_1_0001.jp2) "First page of Samefolket trial issue")
